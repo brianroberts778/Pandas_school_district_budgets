@@ -1,8 +1,8 @@
-# pandas_challenge
-Option 2: PyCitySchools
+# pandas_school_disctrict_budgets
+PyCitySchools, Pandas Project
 
 Mock analyses of a school district's budgets and general student scores across math and reading. 
-Analyses include a overall District Summary, School by School Summary, and a handful of more in depth views into budget effieciency and a...
+Analyses include an overall District Summary, School by School Summary, and a handful of more in depth views into budget effieciency and a...
 ...general layout of the academic performance of grades 9-12 in Reading and Math.
 
 Generally, based on the top and bottom schools, in relation to passing both subjects, and each school's budget-per-student, spending more on students...
